@@ -1,1 +1,19 @@
-Zelda/.DS_Store
+# os
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ide
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# tools
+node_modules/
+yarn-error.log
+*.tiled-project
+*.tiled-session
+
+# other
+*.bak
+*.txt
